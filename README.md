@@ -33,6 +33,7 @@ This project is a full-stack blog website where users can read, create, and mana
 
 ### 1. Clone the repository:
     ```bash
+    
     git clone https://github.com/your-username/blog-website.git
     cd blog-website
 
@@ -40,6 +41,7 @@ This project is a full-stack blog website where users can read, create, and mana
 For the frontend (inside the ``/client`` folder):
 
     ```bash
+    
     npm install
 
 ### 3. Set up the PostgreSQL database:
@@ -50,9 +52,10 @@ Create a database and a users and blogs table using the schema in the Database S
     npm run dev
 
 ### 5. Start the frontend server:
-In the ``/client`` folder, run:
+In the `/client` folder, run:
 
-    bash
+    ```bash
+    
     npm run dev
 
 ## API Endpoints

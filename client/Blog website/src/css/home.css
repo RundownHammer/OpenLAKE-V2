@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'Sohne';
+  src: url('./Fonts/Sohne/TestSohne-Buch-BF663d89cd32e6a.ttf') format('truetype');
+}
+
+.LogoMobile{
+  display: none;
+}
+
+.HomeSection{
+  margin-left: 148px;
+  margin-right: 148px;
+  position: relative;
+}
+.HomeSection h1{
+  padding-top: 148px;
+  font-family: 'times new roman', sans-serif;
+  font-size: 120px;
+  font-weight: 400;
+  letter-spacing: -0.055em;
+  color: #242424;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 100px;
+  max-width: 720px;
+}
+
+.HomeSection img{
+  width: 460px;
+  height: 600px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: -1;
+}
+
+.HomeSection h3{
+  font-family: 'Sohne', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #242424;
+  margin-top: 36px;
+  margin-bottom: 36px;
+  line-height: 28px;
+  width: 280px;
+}
+
+.HomeSection button{
+  font-family: 'Sohne', sans-serif;
+  width: 196px;
+  line-height: 40px;
+  font-size: 20px;
+  border-width: 1px;
+  font-weight: 400;
+  border-radius: 99em;
+  background-color: rgba(25, 25, 25, 1);
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.HomeSection button:hover{
+  background-color: #1d1c1c;
+}
+
+@media screen and (max-width: 768px){
+  .HomeSection button{
+    width: 196px;
+    background-color: #1A8917;
+    line-height: 40px;
+    font-size: 20px;
+    border-color: #1A8917;
+    color: #ffffff;
+    border-width: 1px;
+    font-weight: 400;
+    border-radius: 99em;
+  }
+
+  .HomeSection{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .HomeSection h1{
+    padding-top: 80px;
+    font-family: 'times new roman', sans-serif;
+    font-size: 80px;
+    font-weight: 400;
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 72px;
+    width: 280px;
+  }
+
+  .HomeSection img{
+    display: none;
+  }
+
+  .HomeSection h3{
+    font-family: 'Sohne', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #242424;
+    margin-top: 36px;
+    margin-bottom: 36px;
+    line-height: 28px;
+    width: 280px;
+  }
+  
+  .LogoPc{
+    display: none;
+  }
+
+  .LogoMobile{
+    display: block;
+  }
+
+}
+

@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Sohne';
+  src: url(./Fonts/Sohne/TestSohne-Buch-BF663d89cd32e6a.ttf) format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Sohne';
+  src: url(./Fonts/Sohne/TestSohne-Halbfett-BF663d89cd2d67b.ttf) format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Sohne';
+  src: url(./Fonts/Sohne/TestSohne-Extraleicht-BF663d89cd3f5c5.ttf) format('truetype');
+  font-weight: 200;
+}
+
+
+:root {
+  font-family: 'sans-serif, Times New Roman', Times, serif,system-ui, Helvetica, Arial, ;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: rgba(0, 0, 0, 0.87);
+  background-color:rgb(247, 244, 237);
+  width: 100%;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-family: 'Sohne', sans-serif;
+  font-weight: 400;
+  color: rgb(36, 36, 36);
+  text-decoration: inherit;
+  font-size: 14px;
+}
+
+a:hover {
+  color: #000000;
+}
+
+button {
+  font-family: 'Sohne', sans-serif;
+  font-weight: 400;
+  color: rgb(36, 36, 36);
+  font-size: 14px;
+}

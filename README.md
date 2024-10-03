@@ -23,7 +23,7 @@ This project is a full-stack blog website where users can read, create, and mana
 
 ## Tech Stack
 
-- **Frontend**: React, Axios, React Router, React Quill (for rich text editing), Vite (For building static files and React development)
+- **Frontend**: React, Axios, React Router, MaterialUI, React Quill (for rich text editing), Vite (For building static files and React development)
 - **Backend**: Node.js, Express.js, PostgreSQL
 - **Database**: PostgreSQL
 - **Authentication**: Passport.js, bcrypt

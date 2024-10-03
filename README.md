@@ -61,15 +61,15 @@ In the `/client` folder, run:
 ## API Endpoints
 ### Authentication
 
-  - **POST /auth/register**: Register a new user\
-  - **POST /auth/login**: Log in a user\
+  - **POST /auth/register**: Register a new user
+  - **POST /auth/login**: Log in a user
   - **GET /auth/logout**: Log out a user
 
 ### Blogs
-  - **GET /bloglists/blogs**: Get a list of blogs with infinite scrolling (supports pagination with `limit` and `offset`)\
-  - **GET /blogcrud/read/**: Get details of a single blog post by ID\
-  - **POST /blogcrud/create**: Create a new blog post\
-  - **PUT /blogcrud/update/** : Update an existing blog post\
+  - **GET /bloglists/blogs**: Get a list of blogs with infinite scrolling (supports pagination with `limit` and `offset`)
+  - **GET /blogcrud/read/**: Get details of a single blog post by ID
+  - **POST /blogcrud/create**: Create a new blog post
+  - **PUT /blogcrud/update/** : Update an existing blog post
   - **DELETE /blogcrud/delete/** : Delete a blog post
 
 ## Database Schema
@@ -105,8 +105,8 @@ The following table outlines the structure of the database used in the project:
 
 ### Special thanks to:
 
-  - React for making frontend development smooth and efficient.\
-  - Node.js and Express for powering the backend.\
-  - PostgreSQL for being a reliable database solution.\
+  - React for making frontend development smooth and efficient.
+  - Node.js and Express for powering the backend.
+  - PostgreSQL for being a reliable database solution.
   - Sharp for easy image processing.
 

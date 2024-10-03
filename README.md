@@ -37,10 +37,14 @@ This project is a full-stack blog website where users can read, create, and mana
     cd blog-website
 
 ### 2. Install dependencies:
-For the frontend (inside the ``/client`` folder):
+For the frontend (inside the `/client` folder):
 
     npm install
 
+For the backend (Inside `server` folder)
+
+    npm install
+    
 ### 3. Set up the PostgreSQL database:
 Create a database and a users and blogs table using the schema in the Database Schema section.
 
@@ -103,11 +107,11 @@ The following table outlines the structure of the database used in the project:
 
 ### Special thanks to:
 
-React for making frontend development smooth and efficient.
-
-Node.js and Express for powering the backend.
-
-PostgreSQL for being a reliable database solution.
-
-Sharp for easy image processing.
+  React for making frontend development smooth and efficient.
+    
+  Node.js and Express for powering the backend.
+    
+  PostgreSQL for being a reliable database solution.
+    
+  Sharp for easy image processing.
 

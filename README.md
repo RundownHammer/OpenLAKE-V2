@@ -103,7 +103,8 @@ The following table outlines the structure of the database used in the project:
 
 ### Special thanks to:
 
-  React for making frontend development smooth and efficient.
-  Node.js and Express for powering the backend.
-  PostgreSQL for being a reliable database solution.
-  Sharp for easy image processing.
+React for making frontend development smooth and efficient.
+Node.js and Express for powering the backend.
+PostgreSQL for being a reliable database solution.
+Sharp for easy image processing.
+

@@ -1,6 +1,6 @@
 # [OpenLAKE-V2](https://openlake-ecbz.onrender.com)
 ## A Blog Website Project
-
+Site can be accessed [here](https://openlake-ecbz.onrender.com).
 This project is a full-stack blog website where users can read, create, and manage blog posts. It is built using **React** for the frontend and **Node.js** with **PostgreSQL** for the backend.
 
 ## Table of Contents
